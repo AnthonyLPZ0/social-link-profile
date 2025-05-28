@@ -33,3 +33,9 @@ body{
 .social-name{
    color: white;
 }
+
+.ubication{
+   color: hsl(75, 94%, 57%);
+   font-size: 12px;
+   font-weight: 800;
+}
