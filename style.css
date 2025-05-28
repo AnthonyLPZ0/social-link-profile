@@ -21,3 +21,8 @@ body{
    display: flex;
    flex-direction: column;
 }
+
+.social-img{
+   width: 30%;
+   border-radius: 100%;
+}
