@@ -17,6 +17,7 @@ body{
 .container-social{
    background-color: hsl(0, 0%, 12%);
    width: 80%;
+   max-width: 300px;
    padding: 15px;
    display: flex;
    flex-direction: column;
@@ -43,6 +44,7 @@ body{
 .skills{
    color: white;
    font-size: 14px;
+   margin-bottom: 15px;
 }
 
 .social-link{
